@@ -1,4 +1,4 @@
-### Arnav Manjrekar
+# Arnav Manjrekar
 ## Hi, I'm @arnavm8
 ## I am learning computer programming
 ## I'm a student at WHS
