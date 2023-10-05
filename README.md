@@ -16,7 +16,6 @@
 > In this project I used a variety of shapes and random apsects to create a constantly changing and unique robot
 
 [Captioned Scenes](https://studio.code.org/projects/gamelab/PpS_57vzyegXUKlqSPv4fD0coqGoYKvq_dD-kJVkVLE)
-
 > In this project I created a scene of a fight between Star Wars characters
 
 [Animation]
