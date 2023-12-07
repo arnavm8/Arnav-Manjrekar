@@ -27,8 +27,8 @@
 [Side Scroller](https://studio.code.org/projects/gamelab/2k9g27nsfadFjb2_P9zIOd6eGYeUVFv76emfC3RmFiw)
 > In this project I created a model of the snake game where you have to collect apples and avoid obstacles like rocks
 
-[Flyer Game]
->
+[Flyer Game](https://studio.code.org/projects/gamelab/OBQlIoUJ1JLV7nYOjsIiSpJhToWIQy5ayrEnRHlM9t8)
+> In this project I created a flyer where the objective of the game was to collect coins while trying to avoid spikes that will push you off the screen, ending the game
 
-[Project - Design a Game]
->
+[Project - Design a Game](https://studio.code.org/projects/gamelab/hB_RTDPtb6jCBML5r0BsZjllNTmu5NawYwW6sULR1P0)
+> In this projected I created a game where you would try and collect enough pieces of wood to win before getting hit by water droplets 3 times
