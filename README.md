@@ -32,3 +32,9 @@
 
 [Project - Design a Game](https://studio.code.org/projects/gamelab/hB_RTDPtb6jCBML5r0BsZjllNTmu5NawYwW6sULR1P0)
 > In this projected I created a game where you would try and collect enough pieces of wood to win before getting hit by water droplets 3 times
+
+[Hello It's Me](https://ai2.appinventor.mit.edu/#4784477257465856)
+> In this game I learned how to use sounds, images, and layout tools in MIT App Inventor to make a game displaying a few different animals with their sounds that are heard when the animal is clicked on
+
+[My Piano](https://ai2.appinventor.mit.edu/#5974483770671104)
+> In this game I created a piano with a simplified set of keys that allows the user to play the piano
