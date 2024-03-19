@@ -38,3 +38,9 @@
 
 [My Piano](https://ai2.appinventor.mit.edu/#5974483770671104)
 > In this game I created a piano with a simplified set of keys that allows the user to play the piano
+
+[Creative Task 1](https://academy.cs.cmu.edu/sharing/skyBlueAlligator3201)
+> In this project I created a image of the game Geometry Dash
+
+[Creative Task 2](https://academy.cs.cmu.edu/sharing/siennaWolf3439)
+> In this project I created a living room with a TV that has a remote that turns the TV on and off
