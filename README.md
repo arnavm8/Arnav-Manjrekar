@@ -18,9 +18,6 @@
 [Captioned Scenes](https://studio.code.org/projects/gamelab/PpS_57vzyegXUKlqSPv4fD0coqGoYKvq_dD-kJVkVLE)
 > In this project I created a scene of a fight between Star Wars characters
 
-[Animation]
->
-
 [Interactive Card](https://studio.code.org/projects/gamelab/AOuEW30j20frgFVd2zBgWVUcDLeR5T9InQJzI7bPDsk)
 > In this project I created a Happy Birthday card that can be interacted with in order to make the candle flames move and balloons rise up and loop around the screen
 
