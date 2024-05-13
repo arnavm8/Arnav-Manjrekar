@@ -52,5 +52,5 @@
 [Creative Task 4](https://academy.cs.cmu.edu/sharing/brownWolf5675)
 > In this project I created a game where you can play Etch a Sketch and also change the colors with a mirrored drawing
 
-[Creative Task 5](https://academy.cs.cmu.edu/sharing/aquaKangaroo9575))
+[Creative Task 5](https://academy.cs.cmu.edu/sharing/aquaKangaroo9575)
 > In this project I created a game where you can pop balloons by moving them into spikes
